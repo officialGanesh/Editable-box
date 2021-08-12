@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.box{
+    
+}
+
+
+.card{
+
+    width: 50%;
+    height: 45rem;
+    margin-top: 10vh;
+    margin-left: 45rem;
+    background-color: rgb(250, 114, 114);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.card-body{
+    margin-top: 5vh;
+}
+
+#heading{
+    display: inline-block;
+    font-size: 4vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left: 5rem;
+
+}
+
+.card-title{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    margin: 13px;
+}
+
+.card-text{
+    display: block;
+    padding: 2px;
+    margin-left: 7vh;
+
+}
+
+input{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+textarea{
+    text-align: center;
+    padding-top: 1rem;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.btn{
+    
+    margin-left: 14vh;
+}
